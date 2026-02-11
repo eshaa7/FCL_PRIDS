@@ -1,0 +1,7 @@
+dataset/
+data/
+*.csv
+*.pcap
+*.zip
+venv/
+__pycache__/
